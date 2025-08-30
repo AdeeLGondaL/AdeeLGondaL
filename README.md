@@ -1,8 +1,8 @@
-# 👾 Adeel Ahmed | Associate Software Engineer @ Finz Games 🎮
+# 👾 Adeel Ahmed | Software Engineer @ Finz Games 🎮
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Adeel+Ahmed+%F0%9F%8E%AE;Associate+Software+Engineer+at+Finz+Games;Unity+Game+Developer+%F0%9F%8E%B2;Firebase+Enthusiast+%F0%9F%92%BB;Let's+build+something+amazing!" alt="Animated Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Adeel+Ahmed+%F0%9F%8E%AE;Software+Engineer+at+Finz+Games;Unity+Game+Developer+%F0%9F%8E%B2;Firebase+Enthusiast+%F0%9F%92%BB;Let's+build+something+amazing!" alt="Animated Typing Header" />
 </p>
 
 ---
