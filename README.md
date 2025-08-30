@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- **Role:** Associate Software Engineer  
+- **Role:** Software Engineer  
 - **Company:** Finz Games  
 - **Specialties:** Unity, Game Design & Development, Firebase  
 - **Location:** Pakistan
